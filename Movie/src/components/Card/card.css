@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(140, 0, 255);
+}
+.name {
+  color: bisque;
+}
+.profile {
+  width: 200px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid;
+  border-color: aquamarine;
+}
+button {
+  margin-left: 15px;
+  padding: 10px;
+  background-color: cadetblue;
+  color: cornsilk;
+}
